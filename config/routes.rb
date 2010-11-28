@@ -1,4 +1,6 @@
 AptanaTest::Application.routes.draw do
+  resources :droids
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
